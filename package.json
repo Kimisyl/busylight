@@ -9,10 +9,13 @@
     "email": "rasmus@porsager.com",
     "url": "https://github.com/porsager"
   },
+  "contributors": [
+    "Kim Sylvestre <kim.sylvestre@gmail.com> (https://github.com/kimisyl)"
+  ],
   "engines": {
     "node": ">=0.8.0"
   },
-  "repository": "porsager/busylight",
+  "repository": "kimisyl/busylight",
   "keywords": [
     "lync",
     "uc",
@@ -20,13 +23,13 @@
     "hid"
   ],
   "dependencies": {
-    "node-hid": "^0.7.2",
+    "node-hid": "^1.1.0",
     "pwmcolorparser": "1.1.1"
   },
-  "homepage": "http://github.com/porsager/busylight/",
+  "homepage": "http://github.com/kimisyl/busylight/",
   "bugs": {
-    "url": "http://github.com/porsager/busylight/issues",
-    "email": "rasmus@porsager.com"
+    "url": "http://github.com/kimisyl/busylight/issues",
+    "email": "kim.sylvetre@gmail.com"
   },
   "scripts": {
     "test": "node test"
